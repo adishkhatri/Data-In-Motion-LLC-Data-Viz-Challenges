@@ -1,0 +1,211 @@
+Employee ID,Department,Team,Location,Hire Date,Termination Date,Termination Type,Active
+1001,Operations,Biz Ops,USA,2019-02-01,,,1
+1002,Operations,Biz Ops,USA,2019-02-15,,,1
+1003,Operations,Compliance,USA,2019-02-15,,,1
+1004,Operations,Compliance,USA,2019-05-02,,,1
+1005,Operations,Talent Acquisition,USA,2019-03-18,,,1
+1006,Operations,Finance,USA,2019-04-14,2019-11-15,Resignation (Voluntary),0
+1007,Operations,Finance,USA,2022-04-04,,,1
+1008,Operations,Finance,USA,2022-01-10,,,1
+1009,Operations,Compliance,USA,2021-11-01,,,1
+1010,Operations,Talent Acquisition,USA,2021-04-05,,,1
+1011,Operations,Compliance,USA,2021-06-07,2021-09-02,Termination (Involuntary),0
+1012,Operations,Biz Ops,USA,2020-04-06,2021-11-09,Resignation (Voluntary),0
+1013,Operations,Talent Acquisition,USA,2021-11-29,,,1
+1014,Operations,Talent Acquisition,USA,2021-03-01,,,1
+1015,Operations,Compliance,USA,2019-06-01,,,1
+1016,Operations,Talent Acquisition,USA,2019-07-01,,,1
+1017,Operations,Finance,USA,2020-05-04,,,1
+1018,Operations,Compliance,USA,2020-05-10,,,1
+1019,Operations,Finance,USA,2020-07-01,,,1
+1020,Operations,Biz Ops,USA,2021-03-01,,,1
+1021,Operations,Compliance,USA,2021-03-01,,,1
+1022,Operations,Talent Acquisition,USA,2021-10-26,,,1
+1023,Operations,Compliance,USA,2022-01-10,,,1
+1024,Operations,Talent Acquisition,USA,2022-02-01,,,1
+2001,Sales,Sales,USA,2021-11-01,,,1
+2002,Sales,Sales,USA,2021-11-01,,,1
+2003,Sales,Sales,Germany,2020-08-16,,,1
+2004,Sales,Sales,Spain,2019-03-18,2021-11-11,Resignation (Voluntary),0
+2005,Sales,Sales,USA,2021-11-29,,,1
+2006,Sales,Sales,Germany,2022-04-04,,,1
+2007,Sales,Sales,USA,2022-01-10,,,1
+2008,Sales,Sales,USA,2021-11-01,,,1
+2009,Sales,Sales,USA,2021-04-05,,,1
+2010,Sales,Sales,USA,2021-06-07,,,1
+2011,Sales,Sales,USA,2020-04-06,,,1
+2012,Sales,Sales,USA,2021-11-29,,,1
+2013,Sales,Sales,USA,2021-03-01,,,1
+2014,Sales,Sales,Spain,2021-08-30,,,1
+2015,Sales,Sales,Spain,2021-11-01,,,1
+2016,Sales,Sales,Germany,2021-08-16,,,1
+2017,Sales,Sales,USA,2021-11-01,,,1
+2018,Sales,Sales,USA,2021-11-01,,,1
+2019,Sales,Sales,USA,2021-04-05,,,1
+2020,Sales,Sales,USA,2021-11-01,,,1
+2021,Sales,Sales,USA,2021-11-01,,,1
+2022,Sales,Sales,USA,2021-03-01,,,1
+3001,Marketing,Customer Marketing,USA,2020-01-17,2022-01-15,Resignation (Voluntary),0
+3002,Marketing,Leap,USA,2021-11-01,,,1
+3003,Marketing,Customer Marketing,USA,2021-10-13,,,1
+3004,Marketing,Leap,USA,2021-08-16,,,1
+3005,Marketing,Customer Marketing,USA,2021-08-30,,,1
+3006,Marketing,Unknown,USA,2021-11-01,,,1
+3007,Marketing,Customer Marketing,USA,2021-10-26,,,1
+3008,Marketing,Customer Marketing,USA,2021-11-01,,,1
+3009,Marketing,Customer Marketing,USA,2021-03-01,,,1
+3010,Marketing,Customer Marketing,USA,2021-11-01,,,1
+3011,Marketing,Unknown,USA,2021-04-05,,,1
+3012,Marketing,Leap,USA,2021-11-29,,,1
+3013,Marketing,Customer Marketing,USA,2021-11-29,,,1
+3014,Marketing,Customer Marketing,USA,2021-09-13,,,1
+3015,Marketing,Leap,USA,2021-09-13,,,1
+4001,Product & Engineering,Business Enablement,USA,2021-06-07,,,1
+4002,Product & Engineering,Data Engineering,USA,2022-01-10,,,1
+4003,Product & Engineering,Foundations,USA,2021-11-01,,,1
+4004,Product & Engineering,Supply Chain,USA,2021-06-07,,,1
+4005,Product & Engineering,Data Engineering,USA,2021-11-01,,,1
+4006,Product & Engineering,Data Engineering,Romania,2021-10-26,,,1
+4007,Product & Engineering,SRE,USA,2021-04-05,,,1
+4008,Product & Engineering,Monetization Platform,USA,2021-03-01,,,1
+4009,Product & Engineering,Activation,USA,2021-03-01,,,1
+4010,Product & Engineering,Foundations,USA,2021-11-01,,,1
+4011,Product & Engineering,Feedback,USA,2021-11-01,,,1
+4012,Product & Engineering,Feedback,USA,2022-01-10,,,1
+4013,Product & Engineering,Foundations,USA,2021-04-05,,,1
+4014,Product & Engineering,Supply Chain,USA,2021-06-07,,,1
+4015,Product & Engineering,Data Analytics,Romania,2022-01-10,,,1
+4016,Product & Engineering,Data Engineering,Romania,2021-06-07,,,1
+4017,Product & Engineering,Monetization Platform,USA,2021-06-07,,,1
+4018,Product & Engineering,Business Enablement,USA,2021-03-01,,,1
+4019,Product & Engineering,Data Engineering,USA,2021-08-16,,,1
+4020,Product & Engineering,Data Analytics,USA,2021-11-01,,,1
+4021,Product & Engineering,Activation,USA,2021-06-07,,,1
+4022,Product & Engineering,Data Analytics,USA,2021-04-05,,,1
+4023,Product & Engineering,Feedback,USA,2021-10-26,,,1
+4024,Product & Engineering,SRE,USA,2021-11-01,,,1
+4025,Product & Engineering,SRE,USA,2021-08-02,,,1
+4026,Product & Engineering,Buyer Experience,USA,2021-10-26,,,1
+4027,Product & Engineering,Supply Chain,USA,2021-11-01,,,1
+4028,Product & Engineering,Monetization Platform,USA,2021-08-16,,,1
+4029,Product & Engineering,Data Analytics,USA,2021-04-05,,,1
+4030,Product & Engineering,Activation,USA,2021-10-26,,,1
+4031,Product & Engineering,Security & Auth,USA,2021-11-01,,,1
+4032,Product & Engineering,Feedback,USA,2021-08-16,,,1
+4033,Product & Engineering,Security & Auth,USA,2021-11-29,,,1
+4034,Product & Engineering,Activation,USA,2020-09-28,2021-05-12,Resignation (Voluntary),0
+4035,Product & Engineering,Core UX,USA,2021-11-29,,,1
+4036,Product & Engineering,Data Engineering,USA,2021-11-29,,,1
+4037,Product & Engineering,Buyer Experience,USA,2021-08-02,,,1
+4038,Product & Engineering,Business Enablement,USA,2021-08-16,,,1
+4039,Product & Engineering,Data Analytics,Romania,2021-03-01,,,1
+4040,Product & Engineering,SRE,USA,2021-04-05,,,1
+4041,Product & Engineering,Foundations,USA,2021-06-07,,,1
+4042,Product & Engineering,Core UX,USA,2022-01-10,,,1
+4043,Product & Engineering,Supply Chain,USA,2021-11-01,,,1
+4044,Product & Engineering,SRE,USA,2021-03-01,,,1
+4045,Product & Engineering,Monetization Platform,USA,2021-06-07,,,1
+4046,Product & Engineering,Activation,USA,2021-03-01,,,1
+4047,Product & Engineering,Business Enablement,USA,2021-11-01,,,1
+4048,Product & Engineering,Core UX,USA,2021-11-01,,,1
+4049,Product & Engineering,Monetization Platform,USA,2021-03-01,,,1
+4050,Product & Engineering,Buyer Experience,USA,2021-09-13,,,1
+4051,Product & Engineering,Data Engineering,USA,2021-03-01,2021-11-20,Resignation (Voluntary),0
+4052,Product & Engineering,Data Analytics,Romania,2021-03-01,,,1
+4053,Product & Engineering,Data Analytics,Romania,2021-04-23,,,1
+4054,Product & Engineering,Data Analytics,Romania,2021-08-16,,,1
+4055,Product & Engineering,SRE,USA,2021-08-10,,,1
+4056,Product & Engineering,Buyer Experience,USA,2022-03-07,,,1
+4057,Product & Engineering,Monetization Platform,USA,2020-10-06,,,1
+4058,Product & Engineering,Buyer Experience,USA,2022-01-06,,,1
+4059,Product & Engineering,Data Engineering,USA,2021-01-31,,,1
+4060,Product & Engineering,Supply Chain,USA,2020-03-22,,,1
+4061,Product & Engineering,Buyer Experience,USA,2022-02-07,,,1
+4062,Product & Engineering,SRE,USA,2021-10-05,,,1
+4063,Product & Engineering,Data Engineering,USA,2020-12-31,2022-05-01,Resignation (Voluntary),0
+4064,Product & Engineering,Data Analytics,Romania,2021-06-12,,,1
+4065,Product & Engineering,SRE,USA,2020-01-17,2021-04-14,Resignation (Voluntary),0
+4066,Product & Engineering,Monetization Platform,USA,2022-01-09,,,1
+4067,Product & Engineering,Data Analytics,USA,2020-05-28,2021-06-01,Termination (Involuntary),0
+4068,Product & Engineering,Activation,USA,2021-03-11,,,1
+4069,Product & Engineering,Feedback,USA,2021-03-10,,,1
+4070,Product & Engineering,Activation,USA,2021-09-01,,,1
+4071,Product & Engineering,Data Engineering,USA,2020-07-27,2021-06-01,Termination (Involuntary),0
+4072,Product & Engineering,Business Enablement,USA,2020-09-21,,,1
+4073,Product & Engineering,Monetization Platform,USA,2020-12-01,,,1
+4074,Product & Engineering,Core UX,USA,2020-12-18,,,1
+4075,Product & Engineering,Feedback,USA,2021-01-17,,,1
+4076,Product & Engineering,Foundations,USA,2020-12-26,,,1
+4077,Product & Engineering,Security & Auth,USA,2020-06-17,,,1
+4078,Product & Engineering,Buyer Experience,USA,2021-04-07,,,1
+4079,Product & Engineering,Data Analytics,Poland,2022-03-14,,,1
+4080,Product & Engineering,Data Engineering,Poland,2020-11-05,2021-06-01,Termination (Involuntary),0
+4081,Product & Engineering,Data Engineering,Poland,2021-07-22,,,1
+4082,Product & Engineering,Data Engineering,USA,2020-02-16,,,1
+4083,Product & Engineering,Monetization Platform,USA,2020-06-22,,,1
+4084,Product & Engineering,Supply Chain,USA,2020-04-02,,,1
+4085,Product & Engineering,Buyer Experience,USA,2020-03-01,,,1
+4086,Product & Engineering,Data Analytics,USA,2021-09-20,,,1
+4087,Product & Engineering,Data Analytics,USA,2020-12-18,2022-02-15,Resignation (Voluntary),0
+4088,Product & Engineering,Buyer Experience,USA,2021-01-12,,,1
+4089,Product & Engineering,Activation,USA,2020-11-11,,,1
+4090,Product & Engineering,Data Engineering,USA,2021-09-25,,,1
+4091,Product & Engineering,Data Engineering,USA,2021-11-19,,,1
+4092,Product & Engineering,Feedback,USA,2021-08-29,,,1
+4093,Product & Engineering,Feedback,USA,2021-06-21,,,1
+4094,Product & Engineering,Data Analytics,Poland,2022-02-19,,,1
+4095,Product & Engineering,Buyer Experience,USA,2022-03-08,,,1
+4096,Product & Engineering,Activation,USA,2021-07-18,,,1
+4097,Product & Engineering,Data Analytics,Poland,2020-06-05,,,1
+4098,Product & Engineering,Core UX,USA,2020-07-17,,,1
+4099,Product & Engineering,Business Enablement,USA,2022-02-04,,,1
+4100,Product & Engineering,Security & Auth,USA,2020-04-10,,,1
+4101,Product & Engineering,Buyer Experience,USA,2020-06-28,,,1
+4102,Product & Engineering,Data Engineering,Poland,2021-03-05,,,1
+4103,Product & Engineering,Data Analytics,USA,2020-04-21,2022-06-01,Resignation (Voluntary),0
+4104,Product & Engineering,Activation,USA,2020-03-06,,,1
+4105,Product & Engineering,Business Enablement,USA,2021-06-19,,,1
+4106,Product & Engineering,Data Engineering,Poland,2021-04-21,,,1
+4107,Product & Engineering,Activation,USA,2020-11-29,,,1
+4108,Product & Engineering,Supply Chain,USA,2021-01-21,,,1
+4109,Product & Engineering,Data Analytics,USA,2020-11-02,2022-06-01,Resignation (Voluntary),0
+4110,Product & Engineering,Foundations,USA,2021-04-29,,,1
+4111,Product & Engineering,Monetization Platform,USA,2020-08-05,,,1
+4112,Product & Engineering,Business Enablement,USA,2020-03-28,,,1
+4113,Product & Engineering,Data Analytics,USA,2020-11-06,2021-12-15,Resignation (Voluntary),0
+4114,Product & Engineering,Business Enablement,USA,2021-11-13,,,1
+4115,Product & Engineering,Data Engineering,USA,2021-04-03,,,1
+4116,Product & Engineering,Data Analytics,USA,2022-02-12,,,1
+4117,Product & Engineering,Data Analytics,Poland,2020-02-21,2022-05-01,Termination (Involuntary),0
+4118,Product & Engineering,Monetization Platform,USA,2020-03-15,,,1
+4119,Product & Engineering,Core UX,USA,2021-10-20,,,1
+4120,Product & Engineering,Data Engineering,USA,2021-09-30,,,1
+4121,Product & Engineering,Feedback,USA,2020-04-06,,,1
+5001,Customer Experience,Success,Germany,2021-02-19,,,1
+5002,Customer Experience,Support,USA,2020-02-25,,,1
+5003,Customer Experience,Support,USA,2022-01-13,2022-05-01,Resignation (Voluntary),0
+5004,Customer Experience,Success,USA,2022-02-19,,,1
+5005,Customer Experience,Support,Germany,2020-05-27,,,1
+5006,Customer Experience,Support,Germany,2020-12-02,,,1
+5007,Customer Experience,Support,USA,2021-09-03,,,1
+5008,Customer Experience,Support,USA,2021-01-18,,,1
+5009,Customer Experience,Support,USA,2020-10-19,2022-03-01,Resignation (Voluntary),0
+5010,Customer Experience,Success,Germany,2021-09-08,,,1
+5011,Customer Experience,Support,USA,2021-06-01,,,1
+5012,Customer Experience,Support,USA,2021-07-26,,,1
+5013,Customer Experience,Support,USA,2020-02-22,2020-12-15,Termination (Involuntary),0
+5014,Customer Experience,Support,USA,2020-02-01,2021-11-11,Termination (Involuntary),0
+5015,Customer Experience,Support,USA,2021-09-29,,,1
+5016,Customer Experience,Success,USA,2022-04-01,,,1
+5017,Customer Experience,Support,USA,2020-08-15,,,1
+5018,Customer Experience,Success,USA,2021-12-06,2022-04-29,Termination (Involuntary),0
+5019,Customer Experience,Support,USA,2022-02-14,2022-05-01,Resignation (Voluntary),0
+5020,Customer Experience,Success,USA,2021-08-28,,,1
+5021,Customer Experience,Support,USA,2022-01-08,,,1
+5022,Customer Experience,Support,USA,2020-11-18,2021-12-20,Resignation (Voluntary),0
+5023,Customer Experience,Success,USA,2021-11-06,,,1
+5024,Customer Experience,Success,Spain,2021-04-15,,,1
+5025,Customer Experience,Support,USA,2021-08-20,2022-01-15,Termination (Involuntary),0
+5026,Customer Experience,Support,Spain,2021-05-03,,,1
+5027,Customer Experience,Support,Spain,2021-03-10,,,1
+5028,Customer Experience,Success,Spain,2020-11-30,,,1
